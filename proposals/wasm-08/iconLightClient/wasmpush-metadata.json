@@ -1,0 +1,10 @@
+{
+    "title": "ICON Light Client",
+    "authors": [
+     "icon"
+    ],
+    "summary": "This is wasm client for ICON chain.",
+    "details": "This client verifies transaction updates that occurred in remote ICON chain in an efficient way.",
+    "proposal_forum_url": "https://cosmos.com",
+    "vote_option_context": "Yes No"
+}

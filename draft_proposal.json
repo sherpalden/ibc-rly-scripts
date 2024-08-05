@@ -1,0 +1,13 @@
+{
+ "messages": [
+  {
+   "@type": "/ibc.lightclients.wasm.v1.MsgPushNewWasmCode",
+   "signer": "pica1g5r2vmnp6lta9cpst4lzc4syy3kcj2lj50ljlr",
+   "code": null
+  }
+ ],
+ "metadata": "ipfs://CID",
+ "deposit": "100ppica",
+ "title": "hello",
+ "summary": "hellol"
+}

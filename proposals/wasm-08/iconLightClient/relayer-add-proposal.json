@@ -1,0 +1,13 @@
+{
+    "metadata": "ipfs://QmP7njMXAW5CWJAtWSsCTHAc93ecbeAEHPRHZwMdPmBcPo",
+    "deposit": "100000001stake",
+    "title": "Add relayer address",
+    "summary": "Proposal to add relayer address in the chain",
+    "messages": [
+     {
+      "@type": "/composable.transfermiddleware.v1beta1.MsgAddRlyAddress",
+      "authority": "centauri10d07y265gmmuvt4z0w9aw880jnsr700j7g7ejq",
+      "rly_address": "centauri198w453rrmxg8fwel0rlpy0ez8num0r3tkhxxn6"
+     }
+    ]
+}

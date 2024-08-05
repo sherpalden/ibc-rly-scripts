@@ -1,0 +1,10 @@
+{
+    "title": "Add relayer address to the chain",
+    "authors": [
+     "icon"
+    ],
+    "summary": "Proposal for addition of relayer address to the chain",
+    "details": "Adds relayer address",
+    "proposal_forum_url": "https://forum.cosmos.com",
+    "vote_option_context": "Yes No"
+}
